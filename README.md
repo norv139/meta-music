@@ -1,7 +1,7 @@
 
 # meta-music
 
-<img title="preview" alt="preview" src="https://github.com/norv139/meta-music/_source/png.png">
+<img title="preview" alt="preview" src="https://github.com/norv139/meta-music/blob/master/_source/png.png?raw=true">
 
 ### Учебный проект
 ## Ссылка на проект в gh-pages: [meta-music](https://norv139.github.io/meta-music/)
